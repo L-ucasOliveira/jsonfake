@@ -1,0 +1,20 @@
+{
+  "funcionarios": [
+    { "id": 1, "nomeCompleto": "usuario01", "cpf": "1", "telefoneCelular": "1", "email": "111111111"}
+  ],
+  "clientes": [
+    { "id": 1, "nomeCompleto": "usuario01", "cpf": "1", "telefoneCelular": "1", "email": "111111111","dispositivos":[{
+        "idDispositivo1": 1,
+        "idDispositivo2": 2}
+    ]}
+  ],
+"dispostivos":[
+    {
+        "id": 1, "idMarca": 1, "idModelo": 1, "ano": ""
+    }
+],
+"modelos": [
+    {
+        "id": 1, "idMarca": 1, "nomeModelo": ""
+    }
+]}

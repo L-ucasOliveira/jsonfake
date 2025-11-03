@@ -10,11 +10,11 @@
   ],
 "dispostivos":[
     {
-        "id": 1, "idMarca": 1, "idModelo": 1, "ano": ""
+        "id": 1, "idMarca": 1, "idModelo": 1, "ano": "1111"
     }
 ],
 "modelos": [
     {
-        "id": 1, "idMarca": 1, "nomeModelo": ""
+        "id": 1, "idMarca": 1, "nomeModelo": "A01"
     }
 ]}
